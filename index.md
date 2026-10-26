@@ -7,7 +7,7 @@
 
 ## 繁體中文版 (Traditional Chinese)
 
-歡迎使用「一起旅行 (TravelApp)」（以下簡稱「本應用程式」或「我們」）。我們極度重視您的個人隱私與資料安全。本隱私權政策旨在說明我們如何收集、使用、儲存及保護您的個人資訊，並符合 Apple App Store 審查指南第 1.2 條與第 5.1 條之規範。
+歡迎使用「一起旅行 (AmiGo - Trip)」（以下簡稱「本應用程式」或「我們」）。我們極度重視您的個人隱私與資料安全。本隱私權政策旨在說明我們如何收集、使用、儲存及保護您的個人資訊，並符合 Apple App Store 審查指南第 1.2 條與第 5.1 條之規範。
 
 ### 1. 資料收集與使用原則
 * **免註冊體驗：** 本應用程式無需註冊獨立帳號即可使用核心行程規劃功能。您設定的旅伴稱呼、代表色等資訊僅儲存於您的本機設備中。
@@ -37,13 +37,15 @@
 ### 5. 客服支援與聯絡方式
 若您對本隱私權政策、資料處理方式或 UGC 檢舉有任何疑問，請隨時與我們聯繫：
 * **官方聯絡信箱：** [rabpigrat@gmail.com](mailto:rabpigrat@gmail.com)
+* **官方法律與條款網址：** [https://rabpigrat.github.io/travel-app-legal/](https://rabpigrat.github.io/travel-app-legal/)
 * **客服回覆時間：** 我們將於收到來信後 24 小時內給予回覆與處置。
+* **GitHub 專案首頁：** [https://github.com/chen7635/AmiGo - Trip](https://github.com/chen7635/AmiGo - Trip)
 
 ---
 
 ## English Version
 
-Welcome to "TravelApp" (referred to as "this Application", "we", "us", or "our"). We are committed to protecting your personal privacy and data security. This Privacy Policy outlines how we collect, use, store, and safeguard your information in compliance with Apple App Store Review Guidelines 1.2 and 5.1.
+Welcome to "AmiGo - Trip" (referred to as "this Application", "we", "us", or "our"). We are committed to protecting your personal privacy and data security. This Privacy Policy outlines how we collect, use, store, and safeguard your information in compliance with Apple App Store Review Guidelines 1.2 and 5.1.
 
 ### 1. Data Collection and Usage Principles
 * **Account-Free Experience:** You can use all core itinerary planning features without creating an account. Your nickname and avatar color are saved locally on your device.
@@ -73,5 +75,6 @@ This Application is licensed under Apple's standard End User License Agreement (
 ### 5. Support & Contact Information
 If you have any questions, feedback, or reports regarding this Privacy Policy or objectionable content:
 * **Customer Support Email:** [rabpigrat@gmail.com](mailto:rabpigrat@gmail.com)
+* **Official Legal & Privacy Site:** [https://rabpigrat.github.io/travel-app-legal/](https://rabpigrat.github.io/travel-app-legal/)
 * **Response Time:** Inquiries and moderation reports are handled within 24 hours.
 
