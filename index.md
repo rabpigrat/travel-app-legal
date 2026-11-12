@@ -76,4 +76,3 @@ If you have any questions, feedback, or reports regarding this Privacy Policy or
 * **官方聯絡信箱：** [rabpigrat@gmail.com](mailto:rabpigrat@gmail.com)
 * **官方法律與條款網址：** [https://rabpigrat.github.io/travel-app-legal/](https://rabpigrat.github.io/travel-app-legal/)
 * **客服回覆時間：** 我們將於收到來信後 24 小時內給予回覆與處置。
-* **GitHub 專案首頁：** [https://github.com/chen7635/AmiGo - Trip](https://github.com/chen7635/AmiGo - Trip)
